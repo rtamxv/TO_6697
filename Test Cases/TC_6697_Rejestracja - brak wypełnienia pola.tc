@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Celem tego przypadku testowego jest sprawdzenie poprawności walidacji danych na stronie zalando.pl podczas rejestracji</description>
+   <name>TC_6697_Rejestracja - brak wypełnienia pola</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7147b1a3-f4aa-4b0b-bb81-480e89870686</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Rejestracja brak/dane')</defaultValue>
+      <description></description>
+      <id>6d0c51bf-5a53-4ab3-af8e-daaa4099ed79</id>
+      <masked>false</masked>
+      <name>nazwisko</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Rejestracja brak/dane')</defaultValue>
+      <description></description>
+      <id>dcdf18e6-59c9-480e-99eb-5084ba7f6872</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Rejestracja brak/dane')</defaultValue>
+      <description></description>
+      <id>c37c8254-cd74-4bae-a543-28d1cf3a33ac</id>
+      <masked>false</masked>
+      <name>haslo</name>
+   </variable>
+</TestCaseEntity>

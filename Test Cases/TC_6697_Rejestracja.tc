@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Celem tego przypadku testowego jest sprawdzenie poprawności rejestracji użytkownika na stronie zalando.pl</description>
+   <name>TC_6697_Rejestracja</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68a8589c-41ae-4581-aeca-b83edb53e22d</testCaseGuid>
+</TestCaseEntity>

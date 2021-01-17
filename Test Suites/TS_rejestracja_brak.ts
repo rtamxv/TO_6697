@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_rejestracja_brak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4c2d28a1-776a-48bf-8b1a-725a9a4828c7</testSuiteGuid>
+   <testCaseLink>
+      <guid>2316a89c-cc64-4bd3-a263-f40f731c36ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_6697_Rejestracja</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7d28c6c2-f183-4d3a-856c-7c658ad6c6e2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_6697_Rejestracja - brak wypełnienia pola</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>04ce5eed-fdc0-4ebf-a65e-ad21d848b988</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dane</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>04ce5eed-fdc0-4ebf-a65e-ad21d848b988</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nazwisko</value>
+         <variableId>6d0c51bf-5a53-4ab3-af8e-daaa4099ed79</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>04ce5eed-fdc0-4ebf-a65e-ad21d848b988</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mail</value>
+         <variableId>dcdf18e6-59c9-480e-99eb-5084ba7f6872</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>04ce5eed-fdc0-4ebf-a65e-ad21d848b988</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>haslo</value>
+         <variableId>c37c8254-cd74-4bae-a543-28d1cf3a33ac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
